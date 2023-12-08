@@ -9,6 +9,6 @@ As I meticulously arrange my book collection, a realization dawns – some title
 
 ## Feature
 
-
+allows multiple users to login and manage the books they borrow from each other
 
 This project is licensed under the terms of the MIT license.
