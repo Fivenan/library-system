@@ -11,4 +11,8 @@ As I meticulously arrange my book collection, a realization dawns – some title
 
 allows multiple users to login and manage the books they borrow from each other
 
+## Technology
+
+OAuth2
+
 This project is licensed under the terms of the MIT license.
