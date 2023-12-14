@@ -1,5 +1,6 @@
 # library-system
 Book Management System
+
 For private use
 
 ## Description
@@ -21,5 +22,7 @@ Spring
 Java
 
 ReactJS
+
+NFC and barcode reader
 
 This project is licensed under the terms of the MIT license.
