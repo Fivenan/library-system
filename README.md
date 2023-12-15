@@ -25,4 +25,6 @@ ReactJS
 
 NFC and barcode reader
 
+PostgreSQL
+
 This project is licensed under the terms of the MIT license.
