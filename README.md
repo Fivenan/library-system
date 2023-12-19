@@ -22,6 +22,8 @@ Spring
 
 Java
 
+Kotlin
+
 ReactJS
 
 NFC and barcode reader
