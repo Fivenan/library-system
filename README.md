@@ -30,4 +30,6 @@ NFC and barcode reader
 
 PostgreSQL
 
+JSON export
+
 This project is licensed under the terms of the MIT license.
