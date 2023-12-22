@@ -30,6 +30,8 @@ NFC and barcode reader
 
 PostgreSQL
 
+MySQL
+
 JSON export
 
 GSON
