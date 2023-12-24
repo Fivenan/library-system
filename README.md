@@ -16,7 +16,7 @@ allows multiple users to login and manage the books they borrow from each other
 
 ## Technology
 
-OAuth2
+### Framework
 
 Spring
 
@@ -35,6 +35,8 @@ MySQL
 JSON export
 
 GSON
+
+OAuth2
 
 ## License
 
