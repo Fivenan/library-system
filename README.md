@@ -28,6 +28,8 @@ ReactJS
 
 NFC and barcode reader
 
+### Database
+
 PostgreSQL
 
 MySQL
