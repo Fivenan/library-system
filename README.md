@@ -16,13 +16,17 @@ allows multiple users to login and manage the books they borrow from each other
 
 ## Technology
 
-### Framework
-
-Spring
+### Language
 
 Java
 
 Kotlin
+
+JavaScript
+
+### Framework
+
+Spring
 
 ReactJS
 
