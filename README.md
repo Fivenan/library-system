@@ -46,6 +46,8 @@ GSON
 
 OAuth2
 
+### Other Elements
+
 QR scan
 
 ## License
