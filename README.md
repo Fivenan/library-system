@@ -40,13 +40,13 @@ MySQL
 
 JDBC
 
+### Other Elements
+
 JSON export
 
 GSON
 
 OAuth2
-
-### Other Elements
 
 QR scan
 
