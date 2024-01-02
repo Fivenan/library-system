@@ -52,6 +52,8 @@ QR scan
 
 ## Tools
 
+Android Studio
+
 VS Code
 
 ## License
