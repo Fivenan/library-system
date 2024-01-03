@@ -32,6 +32,8 @@ ReactJS
 
 NFC and barcode reader
 
+QR Scan
+
 ### Database
 
 PostgreSQL
@@ -47,8 +49,6 @@ JSON export
 GSON
 
 OAuth2
-
-QR scan
 
 ## Tools
 
