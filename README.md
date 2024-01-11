@@ -17,11 +17,11 @@ User can also provide pictures for the books.
 
 ### Language
 
-Java
+Java: Utilized for the backend development, offering robust and scalable solutions.
 
-Kotlin
+Kotlin: Enhances the readability and conciseness of the codebase, particularly in Android development.
 
-JavaScript
+JavaScript: Employed for dynamic and interactive user interfaces, particularly with React.js.
 
 ### Framework
 
