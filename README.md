@@ -53,11 +53,11 @@ QR Scan
 
 ## Tools
 
-Android Studio
+- **Android Studio:** The primary integrated development environment for Android application development, ensuring a smooth workflow.
 
-VS Code
+- **VS Code:** A versatile and lightweight code editor, fostering an efficient coding environment.
 
-Figma
+- **Figma:** Utilized for designing and prototyping user interfaces, ensuring a visually appealing and user-friendly application.
 
 # License
 
