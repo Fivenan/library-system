@@ -17,7 +17,7 @@ User can also provide pictures for the books.
 
 ### Language
 
-Java: Utilized for the backend development, offering robust and scalable solutions.
+- Java: Utilized for the backend development, offering robust and scalable solutions.
 
 Kotlin: Enhances the readability and conciseness of the codebase, particularly in Android development.
 
