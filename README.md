@@ -19,7 +19,7 @@ User can also provide pictures for the books.
 
 - Java: Utilized for the backend development, offering robust and scalable solutions.
 
-Kotlin: Enhances the readability and conciseness of the codebase, particularly in Android development.
+- Kotlin: Enhances the readability and conciseness of the codebase, particularly in Android development.
 
 JavaScript: Employed for dynamic and interactive user interfaces, particularly with React.js.
 
