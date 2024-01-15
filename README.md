@@ -21,7 +21,7 @@ User can also provide pictures for the books.
 
 - Kotlin: Enhances the readability and conciseness of the codebase, particularly in Android development.
 
-JavaScript: Employed for dynamic and interactive user interfaces, particularly with React.js.
+- JavaScript: Employed for dynamic and interactive user interfaces, particularly with React.js.
 
 ### Framework
 
