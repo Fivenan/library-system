@@ -41,15 +41,15 @@ JDBC
 
 ### Other Elements
 
-JSON export
+- **JSON Export:** Enables the exchange of data in a lightweight and structured format, promoting interoperability.
 
-GSON
+- **GSON:** A library for JSON serialization and deserialization in Java, enhancing data manipulation.
 
-OAuth2
+- **OAuth2:** Ensures secure and standardized authorization, enhancing the overall system's security.
 
-NFC and barcode reader
+- **NFC and Barcode Reader:** Leveraged for streamlined and efficient library asset tracking.
 
-QR Scan
+- **QR Scan:** Facilitates quick and reliable data capture, enhancing user interactions.
 
 ## Tools
 
