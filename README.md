@@ -31,13 +31,10 @@ React.js
 
 ### Database
 
-PostgreSQL
-
-MySQL
-
-MongoDB
-
-JDBC
+- **PostgreSQL:** A powerful relational database management system, ensuring data integrity and performance.
+- **MySQL:** Employed for efficient data storage and retrieval, particularly suitable for relational data structures.
+- **MongoDB:** Utilized for flexible and scalable storage of document-oriented data, enhancing versatility.
+- **JDBC:** Ensures seamless connectivity between Java applications and databases, fostering data interactions.
 
 ### Other Elements
 
