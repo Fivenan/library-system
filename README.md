@@ -26,6 +26,7 @@ User can also provide pictures for the books.
 ### Framework
 
 - **Spring:** Empowers the backend with a comprehensive and modular framework, promoting efficient development.
+
 - **React.js:** Facilitates the creation of responsive and dynamic front-end components, ensuring an engaging user experience.
 
 ### Database
