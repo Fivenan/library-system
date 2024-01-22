@@ -13,6 +13,11 @@ allows multiple users to log in and manage the books they borrow from each other
 
 User can also provide pictures for the books.
 
+**Catalog Management:**
+   - Search and browse functionality for books, categorizing by genres, authors, or subjects.
+   - Real-time availability status for each book.
+   - Detailed book information, including cover images and summaries.
+
 ## Technology
 
 ### Language
