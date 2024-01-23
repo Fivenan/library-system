@@ -18,6 +18,11 @@ User can also provide pictures for the books.
    - Real-time availability status for each book.
    - Detailed book information, including cover images and summaries.
 
+**Reservation System:**
+   - Allow users to reserve books that are currently checked out.
+   - Hold a reserved book for a specified period.
+
+
 ## Technology
 
 ### Language
