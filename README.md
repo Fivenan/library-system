@@ -26,6 +26,9 @@ User can also provide pictures for the books.
    - Allow users to reserve books that are currently checked out.
    - Hold a reserved book for a specified period.
 
+**User Profile and History:**
+   - User accounts to track borrowing history.
+   - Recommendations based on reading history.
 
 ## Technology
 
