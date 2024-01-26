@@ -30,6 +30,9 @@ User can also provide pictures for the books.
    - User accounts to track borrowing history.
    - Recommendations based on reading history.
 
+**Notification System:**
+   - Email or push notifications for due dates, reservation updates, and other important announcements.
+
 ## Technology
 
 ### Language
