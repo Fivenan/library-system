@@ -30,6 +30,10 @@ User can also provide pictures for the books.
    - User accounts to track borrowing history.
    - Recommendations based on reading history.
 
+**Mobile App Integration:**
+   - Native mobile app support for users to access the library system on the go.
+   - Features like barcode scanning for easy check-in/check-out.
+
 **Notification System:**
    - Email or push notifications for due dates, reservation updates, and other important announcements.
 
