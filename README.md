@@ -37,6 +37,10 @@ User can also provide pictures for the books.
 **Notification System:**
    - Email or push notifications for due dates, reservation updates, and other important announcements.
 
+**Reporting and Analytics:**
+    - Generate reports on book circulation, popular genres, and user activity.
+    - Analytics to help make data-driven decisions for library management.
+
 ## Technology
 
 ### Language
