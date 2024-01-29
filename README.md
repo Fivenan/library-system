@@ -41,6 +41,9 @@ User can also provide pictures for the books.
     - Generate reports on book circulation, popular genres, and user activity.
     - Analytics to help make data-driven decisions for library management.
 
+**Interlibrary Loan System:**
+    - Integration with other libraries to facilitate resource sharing.
+
 ## Technology
 
 ### Language
