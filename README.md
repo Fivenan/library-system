@@ -44,6 +44,10 @@ User can also provide pictures for the books.
 **Interlibrary Loan System:**
     - Integration with other libraries to facilitate resource sharing.
 
+**Book Reviews and Ratings:**
+    - Allow users to leave reviews and ratings for books.
+    - Curate recommended reading lists based on reviews.
+
 ## Technology
 
 ### Language
