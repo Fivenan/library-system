@@ -48,6 +48,9 @@ User can also provide pictures for the books.
     - Allow users to leave reviews and ratings for books.
     - Curate recommended reading lists based on reviews.
 
+**Integration with Online Resources:**
+    - Link to e-books, online databases, and other digital resources.
+
 ## Technology
 
 ### Language
