@@ -51,6 +51,10 @@ User can also provide pictures for the books.
 **Integration with Online Resources:**
     - Link to e-books, online databases, and other digital resources.
 
+**Event Management:**
+    - Promote library events, book clubs, and author talks.
+    - Allow users to RSVP for events.
+
 ## Technology
 
 ### Language
