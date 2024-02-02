@@ -93,13 +93,11 @@ User can also provide pictures for the books.
 
 - **QR Scan:** Facilitates quick and reliable data capture, enhancing user interactions.
 
-## Tools
+## Development Environment
 
-- **Android Studio:** The primary integrated development environment for Android application development, ensuring a smooth workflow.
-
-- **VS Code:** A versatile and lightweight code editor, fostering an efficient coding environment.
-
-- **Figma:** Utilized for designing and prototyping user interfaces, ensuring a visually appealing and user-friendly application.
+- **Primary IDE:** Android Studio
+- **Code Editor:** VS Code
+- **Design Tool:** Figma
 
 # License
 
