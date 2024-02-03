@@ -7,6 +7,8 @@ For private use
 
 As I meticulously arrange my book collection, a realization dawns – some titles, lent to others, have embarked on their own literary journeys. Motivated by this, I am inspired to craft a graceful library system.
 
+Imagine a library experience where borrowing books is as simple as a tap, and discovering your next favorite read is a delightful journey. 
+
 ## Feature
 
 allows multiple users to log in and manage the books they borrow from each other.
