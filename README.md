@@ -24,6 +24,9 @@ User can also provide pictures for the books.
    - Efficient process for borrowing and returning books.
    - Notifications for overdue items and reservation alerts.
 
+**Gentle Fine System:**
+   - Life can get busy. Our automated fines are fair, ensuring your journey is stress-free and enjoyable
+
 **Reservation System:**
    - Allow users to reserve books that are currently checked out.
    - Hold a reserved book for a specified period.
