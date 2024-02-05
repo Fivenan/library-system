@@ -60,6 +60,9 @@ User can also provide pictures for the books.
     - Promote library events, book clubs, and author talks.
     - Allow users to RSVP for events.
 
+**Private Reading Space:** 
+    - MyBookshelf respects your reading privacy. Your bookmarks and notes are for your eyes only, creating a personal sanctuary in the digital realm.
+
 ## Technology
 
 ### Language
