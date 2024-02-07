@@ -64,6 +64,9 @@ User can also provide pictures for the books.
 **Private Reading Space:** 
     - MyBookshelf respects your reading privacy. Your bookmarks and notes are for your eyes only, creating a personal sanctuary in the digital realm.
 
+**Intuitive Navigation:** 
+    - Navigate through your personal reading history with an interface designed to evoke the charm of flipping through a cherished journal.
+
 ## Technology
 
 ### Language
