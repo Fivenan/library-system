@@ -11,6 +11,8 @@ As I meticulously arrange my book collection, a realization dawns – some title
 
 Imagine a library experience where borrowing books is as simple as a tap, and discovering your next favorite read is a delightful journey. 
 
+and also being able to easily bookmark the things you read from the app until the lines in the page using the camera
+
 ## Feature
 
 allows multiple users to log in and manage the books they borrow from each other.
