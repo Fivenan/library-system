@@ -1,7 +1,6 @@
 # library-system
-Book Management System
 
-Reading Management System
+Book Collection and Reading Management System
 
 For private use
 
