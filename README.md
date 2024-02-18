@@ -14,7 +14,7 @@ and also being able to easily bookmark the things you read from the app until th
 
 ## Feature
 
-allows users to log in and manage the books they borrow from each other.
+Allows users to log in and manage the books they borrow from each other.
 
 User can also provide pictures for the books.
 
