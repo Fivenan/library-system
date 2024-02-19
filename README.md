@@ -18,6 +18,8 @@ Allows users to log in and manage the books they borrow from each other.
 
 User can also provide pictures for the books.
 
+User can add a bookmark as note and picture.
+
 **Catalog Management:**
    - Search and browse functionality for books, categorizing by genres, authors, or subjects.
    - Real-time availability status for each book.
