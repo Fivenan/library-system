@@ -2,8 +2,6 @@
 
 Book Collection and Reading Management System
 
-For private use
-
 ## Description
 
 As I meticulously arrange my book collection, a realization dawns – some titles, lent to others, have embarked on their own literary journeys. Motivated by this, I am inspired to craft a graceful library system.
