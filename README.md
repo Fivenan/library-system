@@ -20,6 +20,8 @@ User can also provide pictures for the books.
 
 User can add a bookmark as note and picture.
 
+Timer functionality
+
 **Catalog Management:**
    - Search and browse functionality for books, categorizing by genres, authors, or subjects.
    - Real-time availability status for each book.
