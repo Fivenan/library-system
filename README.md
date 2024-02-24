@@ -20,6 +20,8 @@ User can also provide pictures for the books.
 
 User can add a bookmark as note and picture.
 
+User can see the reading stat and analysis
+
 Timer functionality
 
 **Catalog Management:**
