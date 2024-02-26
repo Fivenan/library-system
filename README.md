@@ -22,7 +22,7 @@ User can add a bookmark as note and picture.
 
 User can see the reading stat and analysis.
 
-Timer functionality
+Timer functionality for reading
 
 **Catalog Management:**
    - Search and browse functionality for books, categorizing by genres, authors, or subjects.
