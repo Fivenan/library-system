@@ -14,7 +14,7 @@ And also being able to easily bookmark the things you read from the app until th
 
 Allows users to log in and manage the books they borrow from each other.
 
-User can get suggestions on book arrangements.
+User can get suggestions on book arrangements on their shelf.
 
 User can also provide pictures for the books.
 
