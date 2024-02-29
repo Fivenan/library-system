@@ -77,6 +77,8 @@ Timer functionality for reading.
 
 ## Technology
 
+Used technologies
+
 ### Language
 
 - Java: Utilized for the backend development, offering robust and scalable solutions.
