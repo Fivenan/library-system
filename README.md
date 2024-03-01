@@ -1,6 +1,6 @@
 # library-system
 
-Book Collection and Reading Management System
+Book Collection and Reading Management System.
 
 ## Description
 
