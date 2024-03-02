@@ -77,7 +77,7 @@ Timer functionality for reading.
 
 ## Technology
 
-Used technologies
+For this project, the following language, frameworks, and other technologies are used. 
 
 ### Language
 
