@@ -24,7 +24,7 @@ User can see the reading stat and analysis.
 
 based on genre, it can also suggest books.
 
-Timer functionality for reading.
+Timer functionality for reading the book. 
 
 **Catalog Management:**
    - Search and browse functionality for books, categorizing by genres, authors, or subjects.
