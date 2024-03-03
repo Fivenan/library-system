@@ -22,6 +22,8 @@ User can add a bookmark as note and picture.
 
 User can see the reading stat and analysis.
 
+based on genre, it can also suggest books.
+
 Timer functionality for reading.
 
 **Catalog Management:**
