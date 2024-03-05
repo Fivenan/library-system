@@ -14,17 +14,35 @@ And also being able to easily bookmark the things you read from the app until th
 
 Allows users to log in and manage the books they borrow from each other.
 
-User can get suggestions on book arrangements on their shelf.
+1. **Book Arrangements:**
+   - Receive personalized suggestions for organizing books on your shelf.
+   - Explore various arrangement options based on genre, author, or other criteria.
+   - Easily customize and rearrange your book collection with intuitive suggestions.
 
-User can also provide pictures for the books.
+2. **Book Pictures:**
+   - Upload images of your books to enhance your virtual bookshelf.
+   - Create a visually appealing collection by adding book cover pictures.
+   - Personalize your book inventory with visual representations of your library.
 
-User can add a bookmark as note and picture.
+3. **Bookmark and Note Features:**
+   - Add bookmarks to specific pages with accompanying notes and pictures.
+   - Capture memorable moments in your books by attaching images to bookmarks.
+   - Easily revisit important sections and annotations for a more immersive reading experience.
 
-User can see the reading stat and analysis.
+4. **Reading Stats and Analysis:**
+   - Access comprehensive reading statistics for insights into your reading habits.
+   - Analyze your reading patterns, such as reading speed, most-read genres, and more.
+   - Make informed decisions about your next read based on personalized analysis.
 
-based on genre, it can also suggest books.
+5. **Genre-Based Book Suggestions:**
+   - Receive tailored book recommendations based on your preferred genres.
+   - Explore new books within specific genres you enjoy.
+   - Expand your reading horizons with diverse genre-based suggestions.
 
-Timer functionality for reading the book. 
+6. **Timer Functionality:**
+   - Utilize a built-in timer for tracking your reading sessions.
+   - Set reading goals and monitor your progress with the timer feature.
+   - Enhance your reading routine with time-management capabilities for a more focused experience.
 
 **Catalog Management:**
    - Search and browse functionality for books, categorizing by genres, authors, or subjects.
