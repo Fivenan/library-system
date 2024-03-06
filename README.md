@@ -44,7 +44,7 @@ Allows users to log in and manage the books they borrow from each other.
    - Set reading goals and monitor your progress with the timer feature.
    - Enhance your reading routine with time-management capabilities for a more focused experience.
 
-**Catalog Management:**
+7. **Catalog Management:**
    - Search and browse functionality for books, categorizing by genres, authors, or subjects.
    - Real-time availability status for each book.
    - Detailed book information, including cover images and summaries.
