@@ -49,7 +49,7 @@ Allows users to log in and manage the books they borrow from each other.
    - Real-time availability status for each book.
    - Detailed book information, including cover images and summaries.
 
-**Check-in/Check-out System:**
+8. **Check-in/Check-out System:**
    - Efficient process for borrowing and returning books.
    - Notifications for overdue items and reservation alerts.
 
