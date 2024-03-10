@@ -53,7 +53,7 @@ Allows users to log in and manage the books they borrow from each other.
    - Efficient process for borrowing and returning books.
    - Notifications for overdue items and reservation alerts.
 
-**Gentle Fine System:**
+9. **Gentle Fine System:**
    - Life can get busy. Our automated fines are fair, ensuring your journey is stress-free and enjoyable
 
 **Reservation System:**
