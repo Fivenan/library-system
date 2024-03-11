@@ -56,7 +56,7 @@ Allows users to log in and manage the books they borrow from each other.
 9. **Gentle Fine System:**
    - Life can get busy. Our automated fines are fair, ensuring your journey is stress-free and enjoyable
 
-**Reservation System:**
+10. **Reservation System:**
    - Allow users to reserve books that are currently checked out.
    - Hold a reserved book for a specified period.
 
