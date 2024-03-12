@@ -60,7 +60,7 @@ Allows users to log in and manage the books they borrow from each other.
    - Allow users to reserve books that are currently checked out.
    - Hold a reserved book for a specified period.
 
-**User Profile and History:**
+11. **User Profile and History:**
    - User accounts to track borrowing history.
    - Recommendations based on reading history.
 
