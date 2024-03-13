@@ -64,7 +64,7 @@ Allows users to log in and manage the books they borrow from each other.
    - User accounts to track borrowing history.
    - Recommendations based on reading history.
 
-**Mobile App Integration:**
+12. **Mobile App Integration:**
    - Native mobile app support for users to access the library system on the go.
    - Features like barcode scanning for easy check-in/check-out.
 
