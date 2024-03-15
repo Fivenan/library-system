@@ -68,7 +68,7 @@ Allows users to log in and manage the books they borrow from each other.
    - Native mobile app support for users to access the library system on the go.
    - Features like barcode scanning for easy check-in/check-out.
 
-**Notification System:**
+13. **Notification System:**
    - Email or push notifications for due dates, reservation updates, and other important announcements.
 
 **Reporting and Analytics:**
