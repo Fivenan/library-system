@@ -71,7 +71,7 @@ Allows users to log in and manage the books they borrow from each other.
 13. **Notification System:**
    - Email or push notifications for due dates, reservation updates, and other important announcements.
 
-**Reporting and Analytics:**
+14. **Reporting and Analytics:**
    - Generate reports on book circulation, popular genres, and user activity.
    - Analytics to help make data-driven decisions for library management.
 
