@@ -78,7 +78,7 @@ Allows users to log in and manage the books they borrow from each other.
 15. **Interlibrary Loan System:**
    - Integration with other libraries to facilitate resource sharing.
 
-**Book Reviews and Ratings:**
+16. **Book Reviews and Ratings:**
    - Allow users to leave reviews and ratings for books.
    - Curate recommended reading lists based on reviews.
 
