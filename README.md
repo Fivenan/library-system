@@ -85,7 +85,7 @@ Allows users to log in and manage the books they borrow from each other.
 17. **Integration with Online Resources:**
    - Link to e-books, online databases, and other digital resources.
 
-**Event Management:**
+18. **Event Management:**
    - Promote library events, book clubs, and author talks.
    - Allow users to RSVP for events.
 
