@@ -92,7 +92,7 @@ Allows users to log in and manage the books they borrow from each other.
 20. **Private Reading Space:** 
    - MyBookshelf respects your reading privacy. Your bookmarks and notes are for your eyes only, creating a personal sanctuary in the digital realm.
 
-**Intuitive Navigation:**
+21. **Intuitive Navigation:**
    - Navigate through your personal reading history with an interface designed to evoke the charm of flipping through a cherished journal.
 
 ## Technology
